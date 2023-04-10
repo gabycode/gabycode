@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can check my portfolio [here](https://gabycode.github.io/Personal-Portfolio/)
 
-- 📫 How to reach me **gabriellarosario72@gmail.com**
+- 📫 Reach me at **gabriellarosario72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
