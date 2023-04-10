@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://gabycode.github.io/Personal-Portfolio/](https://gabycode.github.io/Personal-Portfolio/)
+- 👨‍💻 You can check my portfolio [here](https://gabycode.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me **gabriellarosario72@gmail.com**
 
