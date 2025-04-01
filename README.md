@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gaby</h1>
-<h3 align="center">Learning to become a front-end developer.</h3>
+<h3 align="center">Front-end developer.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 You can check my portfolio [here](https://gabycode.github.io/portfolio/)
 
